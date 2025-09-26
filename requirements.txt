@@ -3,3 +3,5 @@ openai
 python-dotenv 
 schedule
 crontab
+
+snowflake-connector-python
